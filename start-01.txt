@@ -1,1 +1,2 @@
 Create first file in git
+add line 2
